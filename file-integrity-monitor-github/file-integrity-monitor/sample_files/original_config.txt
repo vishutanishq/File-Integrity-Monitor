@@ -1,0 +1,3 @@
+application_name=demo
+log_level=INFO
+integrity_check=true
